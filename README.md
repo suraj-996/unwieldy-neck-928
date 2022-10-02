@@ -42,7 +42,7 @@ So the Automated Student Management System will keep the records of all the cour
 
 ## Screenshots
 
-![Admin Login](https://user-images.githubusercontent.com/76105799/193438208-c53e6eaa-25d2-4e64-8aa0-cf1ced5ce656.png)
+![Admin Login](https://github.com/suraj-996/unwieldy-neck-928/blob/main/image/admin.png)
 <br/><br/>
 ![Database](https://user-images.githubusercontent.com/76105799/193437820-57921009-d8ce-48b5-a9e3-2511413870ab.png)
 
