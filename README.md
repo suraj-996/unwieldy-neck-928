@@ -40,11 +40,6 @@ So the Automated Student Management System will keep the records of all the cour
 - Got to know selft-learning and research of the various tools and technologies.
 - Enjoyed the process of learning and creating the product.
 
-## Screenshots
-
-![Admin Login](https://github.com/suraj-996/unwieldy-neck-928/blob/main/image/admin.png)
-<br/><br/>
-![Database](https://user-images.githubusercontent.com/76105799/193437820-57921009-d8ce-48b5-a9e3-2511413870ab.png)
 
 ## License
 
